@@ -32,6 +32,7 @@ function handleImageClick(event) {
                 state = 3;
                 verifyButton.style.display = "inline";
             }
+           resetButton.style.display = "inline";
         }
     }
 }
